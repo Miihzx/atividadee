@@ -1,0 +1,19 @@
+População = 8.09 
+Taxa = 0.89 
+
+Print ("população mundial estimada nos próximos 5 anos:")
+
+Populacao *= 1 + (taxa / 100)
+Print (f"Ano 1: {populacao:.2f} bilhões")
+
+Populacao *= 1 + (taxa / 100)
+Print (f"Ano 2: {populacao:.2f} bilhões")
+
+Populacao *= 1 + (taxa / 100)
+Print (f"Ano 3: {populacao:.2f} bilhões")
+
+Populacao *= 1 + (taxa / 100)
+Print (f"Ano 4: {populacao:.2f} bilhões")
+
+Populacao *= 1 + (taxa / 100)
+Print (f"Ano 5: {populacao:.2f} bilhões")
