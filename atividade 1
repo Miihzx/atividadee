@@ -1,0 +1,7 @@
+numero = int(input("digite um número inteiro"))
+numero0 = int(input("digite o segundo número inteiro"))
+
+print("soma:", numero + numero0)
+print("produto:", numero * numero0)
+print("subtração:", numero - numero0)
+print("divisão:", numero // numero0)
